@@ -71,3 +71,7 @@ The table below will enable you to either see which aircraft types, registration
 |Yorkshire Air Ambulance|Nostell|G-YAAA|HELIMED 98|EC145|Self|
 |Yorkshire Air Ambulance|RAF Topcliffe|G-YAIR|HELIMED 99|EC145|Self|
 |Yorkshire Air Ambulance|RAF Topcliffe|G-YORX|HELIMED 97|EC145|Self|
+
+#### Contact
+
+If you have any feedback, corrections, omissions, of any other comments, please email me at <a href="mailto:helimeds@henryclarke.uk">helimeds@henryclarke.uk</a>
