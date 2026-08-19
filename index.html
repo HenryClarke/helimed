@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Helimeds — UK Air Ambulance Callsigns</title>
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<header><div class="wrap"><a href="./">helimed</a></div></header>
+<main class="wrap">
+<h1>Helimeds 🚁🚨</h1>
+<p>Air Ambulances in the UK are almost entirely (except two helicopters in Scotland) run as charities with no government funding. Each uses a unique <strong>Helimed</strong> callsign, followed by two numbers. Information about which organisations operate them, their registrations, callsigns and bases is public knowledge, but is spread across many sources. I wanted an overview of all Air Ambulances in the UK, but could not find one, so I have collated the information here.</p>
+<p>The data below is collated from a number of sources, including Wikipedia, the websites and social media of each organisation, along with various press releases and news stories.</p>
+<p>The data may contain mistakes, but I believe it represents an accurate picture of Air Ambulances in the UK. Corrections, updates and omissions can be sent to <a href="mailto:helimeds@henryclarke.uk">helimeds@henryclarke.uk</a>.</p>
+<p>The table shows each organisation, helicopter home base, registration, callsign, aircraft type and helicopter operator.</p>
+<ul>
+<li>Some organisations own and operate their helicopters and employ their own pilots. Most outsource this to a specialist aviation company such as Babcock, Castle Air or Gama Aviation.</li>
+<li>Aircraft may change temporarily during maintenance. A replacement aircraft normally uses the callsign of the helicopter it replaces.</li>
+<li>Aircraft types are shown at a general family level to simplify comparisons.</li>
+</ul>
+<p>Helimed callsigns may use the following suffixes:</p>
+<ul>
+<li><code>Alpha</code> — time-critical tasking.</li>
+<li><code>Echo</code> — a positioning flight.</li>
+<li><code>Zulu</code> — training or another non-operational flight.</li>
+</ul>
+
+<h2>Data</h2>
+<p class="muted">Search all fields, click a heading to sort, or combine multiple filters.</p>
+
+<div class="controls">
+<label class="search"><span>Search all records</span><input id="search" type="search" placeholder="H145, HELIMED 24, Babcock…"></label>
+<label><span>Rows per page</span><select id="size"><option>10</option><option selected>25</option><option>50</option><option value="9999">All</option></select></label>
+<button id="clear">Clear filters</button>
+</div>
+
+<div id="panes" class="panes"></div>
+<div id="status" class="status">Loading data…</div>
+
+<div class="scroll">
+<table id="table" hidden>
+<thead><tr>
+<th data-key="Organisation">Organisation</th>
+<th data-key="Base">Base</th>
+<th data-key="Registration">Registration</th>
+<th data-key="Callsign">Callsign</th>
+<th data-key="Aircraft Type">Aircraft Type</th>
+<th data-key="Operator">Operator</th>
+</tr></thead>
+<tbody></tbody>
+</table>
+</div>
+
+<div class="pager">
+<p id="count"></p>
+<div><button id="prev">Previous</button><span id="page"></span><button id="next">Next</button></div>
+</div>
+
+<h2>Contact</h2>
+<p>For feedback, corrections, omissions or other comments, email <a href="mailto:helimeds@henryclarke.uk">helimeds@henryclarke.uk</a>.</p>
+</main>
+<script src="assets/js/table.js"></script>
+</body>
+</html>
