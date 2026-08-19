@@ -1,4 +1,3 @@
-\
 document.addEventListener("DOMContentLoaded",()=>{
 const table=document.querySelector("#table"),body=table.querySelector("tbody"),status=document.querySelector("#status");
 const search=document.querySelector("#search"),size=document.querySelector("#size"),panes=document.querySelector("#panes");
