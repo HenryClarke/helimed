@@ -1,44 +1,47 @@
 ﻿Organisation,Base,Registration,Callsign,Aircraft Type,Operator
+Cornwall Air Ambulance,Newquay,G-CRWL,HELIMED 01,AW169,Castle Air
+Scottish Ambulance Service,Inverness,G-GSAS,HELIMED 02,EC145,Gama Aviation
 Midlands Air Ambulance,RAF Cosford,G-RMAA,HELIMED 03,EC145,Babcock
+Scottish Ambulance Service,Glasgow,G-XSAS,HELIMED 05,EC145,Gama Aviation
 Midlands Air Ambulance,Strensham Services,G-OMAA,HELIMED 06,EC135,Babcock
-Midlands Air Ambulance,Tatenhill Airfield,G-HMAA,HELIMED 09,EC145,Babcock
-Great Western Air Ambulance,Almondsbury,G-GWAC,HELIMED 65,EC135,Babcock
+Essex and Herts Air Ambulance,Earls Colne,G-EHAT,HELIMED 07,AW169,Specialist Aviation Services
 North West Air Ambulance,Blackpool,G-NWAA,HELIMED 08,EC135,Babcock
-North West Air Ambulance,Barton,G-NWEM                         G-NWAE,HELIMED 72,EC135,Babcock
-North West Air Ambulance,Barton,G-NWEM                         G-NWAE,HELIMED 75,EC135,Babcock
-Cornwall Air Ambulance,Newquay,G-CRWL         G-CNLL,HELIMED 01,AW169,Castle Air
-Cornwall Air Ambulance,Newquay,G-CRWL         G-CNLL,HELIMED 20,AW169,Castle Air
-Warwickshire & Northamptonshire Air Ambulance,Coventry Airport,G-WNAS          G-DRLA,HELIMED 53,AW109,Sloane Helicopters
-"Derbyshire, Leicestershire & Rutland Air Ambulance",Nottingham Heliport,G-WNAS          G-DRLA,HELIMED 54,AW109,Sloane Helicopters
-The Children's Air Ambulance,Oxford Airport,G-NICU,HELIMED 80,AW169,Sloane Helicopters
-The Children's Air Ambulance,Retford Gamston Airport,G-CPTZ,HELIMED 81,AW169,Sloane Helicopters
-Devon Air Ambulance,Exeter Airport,G-DAAS,HELIMED 70,EC145,Devon Air Ambulance
-Devon Air Ambulance,Eaglescott Airfield,G-DAAN,HELIMED 71,EC135,Devon Air Ambulance
-Dorset and Somerset Air Ambulance,Henstridge Airfield,G-DSAA       G-DSCC,HELIMED 10,AW169,Gama Aviation
-East Anglian Air Ambulance,Norwich Airport,G-RESU          G-HEMC,HELIMED 88,EC145,Babcock
-East Anglian Air Ambulance,Cambridge Airport,G-RESU          G-HEMC,HELIMED 85,EC145,Babcock
-Essex and Herts Air Ambulance,North Weald,G-HHEM          G-EHAT,HELIMED 55,AW169,Specialist Aviation Services
-Essex and Herts Air Ambulance,Earls Colne,G-HHEM          G-EHAT,HELIMED 07,AW169,Specialist Aviation Services
-Great Northern Air Ambulance,Langwathby,G-NHAE,HELIMED 58,AS-365N Dauphin,Multiflight
-Great Northern Air Ambulance,Eaglescliffe,G-NHAD,HELIMED 63,AS-365N Dauphin,Multiflight
-Hampshire and Isle of Wight Air Ambulance,Southampton Airport,G-HIOW,HELIMED 56,EC135,Babcock
-Air Ambulance Charity Kent Surrey Sussex,Rochester Airport,G-KSST        G-KSSC          G-LNAC,HELIMED 21,AW169,Specialist Aviation Services
-Air Ambulance Charity Kent Surrey Sussex,Redhill Aerodrome,G-KSST        G-KSSC          G-LNAC,HELIMED 60,AW169,Specialist Aviation Services
-Linconshire and Nottingham Air Ambulance,RAF Waddington,G-LNCC,HELIMED 29,AW169,Heli Service International
-London Air Ambulance,RAF Northholt,G-LAAA             G-LAAB,HELIMED 27,EC135,London Air Ambulance
-London Air Ambulance,RAF Northholt,G-LAAA             G-LAAB,HELIMED 28,EC135,London Air Ambulance
-Magpas Air Ambulance,Alconbury,G-MPAS,HELIMED 66,AW109,Castle Air
-Air Ambulance Northern Ireland,Lisburn,G-HEMZ              G-RSCU,HELIMED 23,AW109,Sloane Helicopters
-Scotland's Charity Air Ambulance,Perth,G-PSCA,HELIMED 76,EC135,Babcock
-Scotland's Charity Air Ambulance,Aberdeen,G-NSCA,HELIMED 79,EC145,Babcock
-Scottish Ambulance Service,Inverness,G-GSAS        G-XSAS,HELIMED 02,EC145,Gama Aviation
-Scottish Ambulance Service,Glasgow,G-GSAS        G-XSAS,HELIMED 05,EC145,Gama Aviation
-Thames Valley Air Ambulance,RAF Benson,G-TVLY,HELIMED 24,EC135,Thames Valley Air Ambulance
-Wales Air Ambulance Charitable Trust,Caernarfon,G-WENU        G-WOBR         G-LOYW          G-WYDN                G-WROL,HELIMED 67,EC145,Gama Aviation
-Wales Air Ambulance Charitable Trust,Welshpool Airport,G-WENU        G-WOBR         G-LOYW          G-WYDN                G-WROL,HELIMED 59,EC145,Gama Aviation
-Wales Air Ambulance Charitable Trust,Cardiff Heliport,G-WENU        G-WOBR         G-LOYW          G-WYDN                G-WROL,HELIMED 61,EC145,Gama Aviation
-Wales Air Ambulance Charitable Trust,Dafen,G-WENU        G-WOBR         G-LOYW          G-WYDN                G-WROL,HELIMED57,EC145,Gama Aviation
+Midlands Air Ambulance,Tatenhill Airfield,G-HMAA,HELIMED 09,EC145,Babcock
+Dorset and Somerset Air Ambulance,Henstridge Airfield,G-DSAA,HELIMED 10,AW169,Gama Aviation
+Dorset and Somerset Air Ambulance,Henstridge Airfield,G-DSCC,HELIMED 10,AW169,Gama Aviation
+Cornwall Air Ambulance,Newquay,G-CNLL,HELIMED 20,AW169,Castle Air
+Air Ambulance Charity Kent Surrey Sussex,Rochester Airport,G-KSST or G-KSSC,HELIMED 21,AW169,Specialist Aviation Services
 Wiltshire and Bath Air Ambulance Charity,Outmarsh,G-WLTS,HELIMED 22,Bell 429,Self
-Yorkshire Air Ambulance,Nostell,G-YAAA               G-YORX                 G-YAIR,HELIMED 98,EC145,Self
-Yorkshire Air Ambulance,RAF Topcliffe,G-YAAA               G-YORX                 G-YAIR,HELIMED 97,EC145,Self
-Yorkshire Air Ambulance,Either Nostell or RAF Topcliffe,G-YAAA               G-YORX                 G-YAIR,HELIMED 99,EC145,Self
+Air Ambulance Northern Ireland,Lisburn,G-HEMZ,HELIMED 23,AW109,Sloane Helicopters
+Air Ambulance Northern Ireland,Lisburn,G-RSCU,HELIMED 23,AW109,Sloane Helicopters
+Thames Valley Air Ambulance,RAF Benson,G-TVLY,HELIMED 24,EC135,Self
+London Air Ambulance,RAF Northholt,G-LAAA,HELIMED 27 or HELIMED 28,EC135,Self
+London Air Ambulance,RAF Northholt,G-LAAB,HELIMED 27 or HELIMED 28,EC135,Self
+Linconshire and Nottingham Air Ambulance,RAF Waddington,G-LNCC,HELIMED 29,AW169,Heli Service International
+Warwickshire & Northamptonshire Air Ambulance,Coventry Airport,G-WNAS,HELIMED 53,AW109,Sloane Helicopters
+"Derbyshire, Leicestershire & Rutland Air Ambulance",Nottingham Heliport,G-DRLA,HELIMED 54,AW109,Sloane Helicopters
+Essex and Herts Air Ambulance,North Weald,G-HHEM,HELIMED 55,AW169,Specialist Aviation Services
+Hampshire and Isle of Wight Air Ambulance,Southampton Airport,G-HIOW,HELIMED 56,EC135,Babcock
+Wales Air Ambulance Charitable Trust,Dafen,G-WYDN,HELIMED 57,EC145,Gama Aviation
+Great Northern Air Ambulance,Langwathby,G-NHAE,HELIMED 58,AS-365N Dauphin,Multiflight
+Wales Air Ambulance Charitable Trust,Welshpool Airport,G-WOBR,HELIMED 59,EC145,Gama Aviation
+Air Ambulance Charity Kent Surrey Sussex,Redhill Aerodrome,G-LNAC,HELIMED 60,AW169,Specialist Aviation Services
+Wales Air Ambulance Charitable Trust,Cardiff Heliport,G-LOYW,HELIMED 61,EC145,Gama Aviation
+Great Northern Air Ambulance,Urlay Nook,G-NHAD,HELIMED 63,AS-365N Dauphin,Multiflight
+Great Western Air Ambulance,Almondsbury,G-GWAC,HELIMED 65,EC135,Babcock
+Magpas Air Ambulance,Alconbury,G-MPAS,HELIMED 66,AW169,Castle Air
+Wales Air Ambulance Charitable Trust,Caernarfon,G-WENU,HELIMED 67,EC145,Gama Aviation
+Devon Air Ambulance,Exeter Airport,G-DAAS,HELIMED 70,EC145,Self
+Devon Air Ambulance,Eaglescott Airfield,G-DAAN,HELIMED 71,EC135,Self
+North West Air Ambulance,Barton,G-NWEM,HELIMED 72,EC135,Babcock
+North West Air Ambulance,Barton,G-NWAE,HELIMED 75,EC135,Babcock
+Scotland’s Charity Air Ambulance,Perth,G-PSCA,HELIMED 76,EC135,Babcock
+Scotland’s Charity Air Ambulance,Aberdeen,G-NSCA,HELIMED 79,EC145,Babcock
+The Children’s Air Ambulance,Oxford Airport,G-NICU,HELIMED 80,AW169,Sloane Helicopters
+The Children’s Air Ambulance,Retford Gamston Airport,G-CPTZ,HELIMED 81,AW169,Sloane Helicopters
+East Anglian Air Ambulance,Cambridge Airport,G-HEMC,HELIMED 85,EC145,Babcock
+East Anglian Air Ambulance,Norwich Airport,G-RESU,HELIMED 88,EC145,Babcock
+Yorkshire Air Ambulance,RAF Topcliffe,G-YORX,HELIMED 97,EC145,Self
+Yorkshire Air Ambulance,Nostell,G-YAAA,HELIMED 98,EC145,Self
+Yorkshire Air Ambulance,RAF Topcliffe,G-YAIR,HELIMED 99,EC145,Self
+Wales Air Ambulance Charitable Trust,Spare,G-WROL,,EC145,Gama Aviation
