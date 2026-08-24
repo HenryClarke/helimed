@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://helimed.henryclarke.uk/sitemap.xml
